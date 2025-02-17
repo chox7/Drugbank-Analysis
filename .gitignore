@@ -1,1 +1,3 @@
 drugbank_partial_and_generated.xml
+.DS_Store
+__pycache__
